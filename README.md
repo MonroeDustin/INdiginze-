@@ -1,2 +1,2 @@
-# INdiginze-
-telling stories through analytics 
+# Projects-
+My projects 
